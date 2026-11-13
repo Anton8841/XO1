@@ -1,0 +1,4 @@
+KNU_Cloud_Computing_Lab1_Block
+sha256
+8000000
+00000

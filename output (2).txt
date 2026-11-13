@@ -1,0 +1,17 @@
+=== PARCS Parallel Hashing Report (SHA-256 / MD5) ===
+Algorithm:          SHA256
+Total hashes:       8000000
+Workers (N):        3
+Execution time:     6.8496 seconds
+Throughput:         1167958.76 hashes/sec
+Target prefix:      '00000'
+Matches found:      7
+Minimum hash:       000000dcbfe84e347bda6dbdde97b4a9318ad7bcf4db976d61508801e033e7a2 (nonce=5012019)
+Sample matches:
+  - 000007808f2d8c17f1c3acf3d2542c8211d6bd8083bec40c16673b9c463ccb3b (nonce=751929)
+  - 00000a95c06a57df11481bf8cd8e85ad45ce26033a3cbb48e3bfd0ad646c288a (nonce=1319677)
+  - 0000021784b165658b518de8f8b75634275b18bde22d428f37c56fe5f6cf4444 (nonce=1399796)
+  - 00000b4fb1040af9141542bdebfcba5ce0264f89cf517babd9943b91971658df (nonce=2110475)
+  - 000002f377014566daf277b275117f321742bd71522bd35e5a9a39a4bcd44d9e (nonce=2243526)
+  - 000000dcbfe84e347bda6dbdde97b4a9318ad7bcf4db976d61508801e033e7a2 (nonce=5012019)
+  - 00000daa95d24ccfd453d6a8f60f7d6d8cece49ce5ca3a750d5cb0adc50ef0a9 (nonce=7986433)
